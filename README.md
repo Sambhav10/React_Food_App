@@ -2,7 +2,7 @@
 
 Welcome to the FullStack Food App! This application provides a seamless experience for users to explore and order food items.
 The app is built trying to build a food app to show the  full-stack approach. The backend data is powered by dummy data in JSON format and then it is then fetched 
-using Node methods such as (GET ,POST ) to provide the desired outcome based on the user interactions . 
+using Express methods such as (GET ,POST ) to provide the desired outcome based on the user interactions . 
 
 ## Features
 
