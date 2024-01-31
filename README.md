@@ -9,7 +9,7 @@ using Express methods such as (GET ,POST ) to provide the desired outcome based 
 - **Menu Exploration:** Browse through a variety of food items available on the menu.
 - **Quantity Selection:** Easily adjust the quantity of each selected food item.
 - **Multi-Item Selection:** Choose different food items to create a customized order.
-- **Checkout:** Complete your order and proceed to checkout. Gathers the info from the user and store it in the locak JSON file. 
+- **Checkout:** Complete your order and proceed to checkout. Gathers the info from the user and store it in the local JSON file. 
 
 ![image](https://github.com/Sambhav10/React_Food_App/assets/85670420/dbf49ada-d07e-4ce3-a850-370c42d2283d)
 ![image](https://github.com/Sambhav10/React_Food_App/assets/85670420/57eb8e2b-2647-4e04-ab54-35c0a7c32c55)
